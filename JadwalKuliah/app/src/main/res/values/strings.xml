@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Jadwal Kuliah</string>
+    <string name="home">Home</string>
+    <string name="todo">TODO</string>
+    <string name="senin1">ARSITEKTUR SISTEM KOMPUTER</string>
+    <string name="senin2">PENGENALAN POLA</string>
+    <string name="senin">SENIN</string>
+    <string name="selasa">SELASA</string>
+    <string name="selasa1">KEAMANAN INFORMASI</string>
+    <string name="rabu">RABU</string>
+    <string name="rabu1">KECERDASAN BUATAN</string>
+    <string name="kamis">KAMIS</string>
+    <string name="kamis1">KOMDAT JARINGAN KOMPUTER</string>
+    <string name="kamis2">ALGODAT</string>
+    <string name="jumat">JUM\'AT</string>
+    <string name="jumat1">SISTEM OPERASI</string>
+    <string name="jumat2">KALKULUS 1</string>
+    <string name="sabtu">SABTU</string>
+    <string name="sabtu1">KIMIA</string>
+    <string name="sabtu2">FISIKA</string>
+    <string name="sabtu3">ILMU SOSIAL BUDAYA</string>
+
+
+</resources>
